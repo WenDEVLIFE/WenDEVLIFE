@@ -7,6 +7,7 @@
 - JAVA
 - PYTHON
 - C++
+-JAVA SWING
 - HTML
 - JAVASCRIPT
 - CSS
