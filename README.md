@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WenDEVLIFE
 - 👀 I’m interested in ...
-- Java
-- Python
+- Software Development Java
 - Web Development
 - 🌱 I’m currently learning ...
 - JAVA
