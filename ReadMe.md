@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Frouen M. Medina Jr <br>First Year BSIT from Davao Vision College<br>Graduate from Philippine Womens College of Davao Last year at TVL - ICT - CSS<br>Lives in Davao City.<br><br><br>
+My Name is Frouen M. Medina Jr <br>First Year BSIT from Davao Vision College<br>Graduate from Philippine Womens College of Davao Last 2022 at TVL - ICT - CSS<br>Lives in Davao City.<br><br><br>
 
 
 ## 🌐 Socials:
