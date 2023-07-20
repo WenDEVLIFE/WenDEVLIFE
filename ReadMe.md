@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Frouen M. Medina Jr<br>Studying Bs in Information & Technology<br>At Philippine Women's College of Davao<br><br>My favorite Programming language is Java
+Hi my name is Frouen M. Medina Jr<br>Studying Bs in Information & Technology<br>At Philippine Women's College of Davao<br><br>My favorite Programming language is Java <br> My hobbies are playing Genshin Impact and Honkai Star Rail <br> I love Cooking <br> Also I love creating projects and coding
 
 
 ## 🌐 Socials:
