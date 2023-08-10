@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frouen M. Medina Jr</h1>
-<h3 align="center">2nd Year Bachelor Science in Information and Technology at Philippine Women's College of Davao. Also i have experience in programming in years , i'm very excited to collaborate, learn and give some advice to beginners and programmers from all around the world.</h3>
+<h3 align="center">2nd Year Bachelor Science in Information and Technology at Philippine Women's College of Davao. Also i have experience in programming in years and, I'm very excited to collaborate, learn and give some advice to beginners and programmers from all around the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendevlife&label=Profile%20views&color=0e75b6&style=flat" alt="wendevlife" /> </p>
 
