@@ -1,31 +1,44 @@
-# 💫 About Me:
-Hi my name is Frouen M. Medina Jr<br>Studying Bs in Information & Technology<br>At Philippine Women's College of Davao<br><br>My favorite Programming language is Java <br> My hobbies are playing Genshin Impact and Honkai Star Rail <br> I love Cooking <br> Also I love creating projects and coding
+<h1 align="center">Hi 👋, I'm Frouen M. Medina Jr</h1>
+<h3 align="center">2nd Year Bachelor Science in Information and Technology</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wendevlife&label=Profile%20views&color=0e75b6&style=flat" alt="wendevlife" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/WenDevLife) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCgn3FuKyP9ujIpxuX0KeNTg) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendevlife" alt="wendevlife" /></a> </p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WenDevLife&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WenDevLife&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WenDevLife&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently working on [JAVA PROJECT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🌱 I’m currently learning **SQL**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WenDevLife&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👯 I’m looking to collaborate on [JAVA DEVELOPMENT AND WEB DEVELOPMENT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+- 🤝 I’m looking for help with [JAVA DEVELOPMENT AND WEB DEVELOPMENT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
----
-[![](https://visitcount.itsvg.in/api?id=WenDevLife&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/WenDevLife) 
+- 📝 I regularly write articles on [https://wendevlife-portfolio.mystrikingly.com/](https://wendevlife-portfolio.mystrikingly.com/)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **SOFTWARE DEVELOPMENT AND WEB DEVELOPMENT**
+
+- 📫 How to reach me **medinajrfrouen@gmail.com**
+
+- 📄 Know about my experiences [https://wendevlife-portfolio.mystrikingly.com/](https://wendevlife-portfolio.mystrikingly.com/)
+
+- ⚡ Fun fact **I'm happy to help beginners**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wendevlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendevlife" height="30" width="40" /></a>
+<a href="https://fb.com/wendevlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wendevlife" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/wendevlife"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wendevlife" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendevlife&show_icons=true&locale=en&layout=compact" alt="wendevlife" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendevlife&show_icons=true&locale=en" alt="wendevlife" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wendevlife&" alt="wendevlife" /></p>
