@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JAVA PROJECT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **JavaFX and SQL**
 
 - 👯 I’m looking to collaborate on [JAVA DEVELOPMENT AND WEB DEVELOPMENT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
