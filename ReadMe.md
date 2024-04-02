@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JAVA PROJECT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-- 🌱 I’m currently learning **Android Studio Using Java**
+- 🌱 I’m currently learning **Android Studio Using Java and Firebase**
 
 - 👯 I’m looking to collaborate on [JAVA DEVELOPMENT AND WEB DEVELOPMENT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-- 📝 I regularly write articles on [https://wendevlife-portfolio.mystrikingly.com/](https://wendevlife-portfolio.mystrikingly.com/)
+- 📝 I regularly write articles on [https://wendevlife-portfolio.mystrikingly.com/]([https://wendevlife-portfolio.mystrikingly.com/](https://wendevlife.github.io/MyPortfolio/?fbclid=IwAR1Mks1Nu39GCKiWct5h5pp_AzMoGhs7RdUGzb5RjUtW69CQTUT0icIZDgI_aem_AeqMQdBlh9SFuraO-meoXEhXmvxGsnVE8MAFDGx-I6uPhUF9T0ggfA-0OBU__HqaUFo1GosHTe1ZPeXJpPFcDKlB))
 
-- 💬 Ask me about **SOFTWARE DEVELOPMENT AND WEB DEVELOPMENT**
+- 💬 Ask me about **SOFTWARE DEVELOPMENT AND Mobile Developemnt**
 
 - 📫 How to reach me **medinajrfrouen@gmail.com**
 
