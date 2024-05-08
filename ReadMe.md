@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendevlife" alt="wendevlife" /></a> </p>
 
-- 🔭 I’m currently working on [JAVA PROJECT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
+- 🔭 I’m currently working on Android Development
 
 - 🌱 I’m currently learning **Android Studio Using Java and Firebase**
 
-- 👯 I’m looking to collaborate on [JAVA DEVELOPMENT AND WEB DEVELOPMENT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
+- 👯 I’m looking to collaborate on Android development
 
-- 🤝 I’m looking for help with [JAVA DEVELOPMENT AND WEB DEVELOPMENT](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
+- 🤝 I’m looking for help with Android development
 
 - 👨‍💻 All of my projects are available at [https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
