@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendevlife" alt="wendevlife" /></a> </p>
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on Android Development & IOS Development
 
 - 🌱 I’m currently learning **Flutter, Swift,  Tensorflow and Supabase**
 
