@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Android Development
 
-- 🌱 I’m currently learning **Flutter, Tensorflow and Supabase**
+- 🌱 I’m currently learning **Flutter, Swift,  Tensorflow and Supabase**
 
 - 👯 I’m looking to collaborate on Android development
 
