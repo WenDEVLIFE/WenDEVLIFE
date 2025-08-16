@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS](https://github.com/WenDEVLIFE/WenDEVLIFE/tree/MY-JAVAGUI-PROJECTS)
 
-- 📝 I regularly write articles on [https://wendevlife-portfolio.mystrikingly.com/]([https://wendevlife-portfolio.mystrikingly.com/](https://wendevlife.github.io/MyPortfolio/?fbclid=IwAR1Mks1Nu39GCKiWct5h5pp_AzMoGhs7RdUGzb5RjUtW69CQTUT0icIZDgI_aem_AeqMQdBlh9SFuraO-meoXEhXmvxGsnVE8MAFDGx-I6uPhUF9T0ggfA-0OBU__HqaUFo1GosHTe1ZPeXJpPFcDKlB))
+- 📝 I regularly write articles on [https://dev.to/wendevlife])
 
 - 💬 Ask me about **SOFTWARE DEVELOPMENT AND Mobile Developemnt**
 
