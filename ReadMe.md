@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/wendevlife])
 
-- 💬 Ask me about **SOFTWARE DEVELOPMENT AND Mobile Developemnt**
+- 💬 Ask me about **SOFTWARE DEVELOPMENT, AI AND Mobile Developemnt**
 
 - 📫 How to reach me **medinajrfrouen@gmail.com**
 
