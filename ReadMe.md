@@ -24,11 +24,11 @@
     height="150"
     alt="GitHub Streak"
   />
-  <img
-    src="https://raw.githubusercontent.com/WenDEVLIFE/WenDEVLIFE/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/WenDEVLIFE/WenDEVLIFE/output/snake.svg)
+
   
 </div>
 
