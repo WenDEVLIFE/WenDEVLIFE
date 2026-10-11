@@ -27,12 +27,7 @@
 </div>
 
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/WenDEVLIFE/WenDEVLIFE/output/snake.svg"
-    alt="GitHub Contribution Snake Animation"
-  />
-</div>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/WenDEVLIFE/WenDEVLIFE/output/snake.svg)
 
 
 ---
