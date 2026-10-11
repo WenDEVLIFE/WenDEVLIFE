@@ -6,28 +6,6 @@
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=WenDEVLIFE&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenDEVLIFE&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false&custom_title=Programming%20Languages"
-    height="150"
-    alt="Top Languages"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=WenDEVLIFE&theme=dracula&hide_border=false&border_radius=5"
-    height="150"
-    alt="GitHub Streak"
-  />
-</div>
-
----
-
 ## Connect with Me
 
 <p align="left">
