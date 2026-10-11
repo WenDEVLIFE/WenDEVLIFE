@@ -26,6 +26,15 @@
   />
 </div>
 
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/WenDEVLIFE/WenDEVLIFE/output/snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
+</div>
+
+
 ---
 
 ## Connect with Me
