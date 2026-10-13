@@ -25,11 +25,9 @@
     alt="GitHub Streak"
   />
 
-## 🐍 Contribution Snake
+## 📈 GitHub Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/WenDEVLIFE/WenDEVLIFE/output/snake.svg)
-
-  
+[![Frouen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WenDEVLIFE&theme=dracula&hide_border=true)](https://github.com/WenDEVLIFE)
 </div>
 
 
